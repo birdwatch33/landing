@@ -1,0 +1,147 @@
+/* Your card CSS file */
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  width: 1100px;
+  margin: auto;
+}
+
+.card {
+  width: 250px;
+  height: 250px;
+  padding: 20px 10px;
+  border: 1px solid rgb(230,239,230);
+  box-shadow: 0 0 5px rgb(230,230,230);
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  text-align: center;
+}
+
+.card i {
+  font-weight: 900;
+  font-size: 80px;
+  color: #79ce78;
+
+}
+
+.card h4 {
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-size: 22px;
+  color: #585858;
+}
+
+.card p {
+  margin-top: 0px;
+  font-size: 16px;
+  color: #888888;
+}
+
+/*.card-category {
+height: 200px;
+width: 500;
+margin: 30px;
+color: white;
+background-position: center;
+background-size: cover;
+border-radius: 5px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+
+.card-product {
+  display: flex;
+  background-color: white;
+  width: 500px;
+  margin: 30px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  align-items: center;
+}
+
+.card-product img {
+  height: 150px;
+}
+
+.card-product h2 {
+  color: #3c3c3c;
+  font-size: 18px;
+}
+
+.card-product p {
+  color: #3c3c3c;
+  font-size: 12px;
+}
+
+.card-product-infos {
+  padding: 25px;
+}
+
+
+
+
+.card-trip {
+  margin: 30px;
+  width: 500px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.card-trip img {
+  width: 500px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-trip-footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  align-items: flex-end;
+  height: 80;
+}
+
+.card-trip-footer img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+.card-trip-footer-description {
+  padding-left: 20px;
+}
+
+.card-trip-footer-description h2 {
+  color: #3c3c3c;
+  font-size: 18px;
+  margin: 20px 0 0 0 ;
+}
+
+.card-trip-footer-description p {
+  color: #3c3c3c;
+  font-size: 12px;
+  margin: 5 0 20px 0 ;
+}
+
+.card-trip-footer-price {
+  padding-right: 45px;
+}
+
+.card-trip-footer-price p {
+  color: #3c3c3c;
+  font-size: 18px;
+}
+
+.parent {
+  position: relative;
+}
+
+.child {
+  position: absolute;
+  top: -25px;
+  right: 40px;
+}
+*/
